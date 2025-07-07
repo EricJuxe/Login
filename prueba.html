@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Notificaciones</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/libreria.css">
+</head>
+<body class="bg-light text-center py-5">
+
+  <div class="container">
+    <h1 class="mb-4">Notificaciones</h1>
+
+    <button class="btn btn-success m-2" onclick="toast('✅ Guardado con éxito')">Mostrar Éxito</button>
+    <button class="btn btn-danger m-2" onclick="toast('❌ Error al guardar')">Mostrar Error</button>
+    <button class="btn btn-warning m-2" onclick="toast('⚠️ Revisa los campos')">Mostrar Advertencia</button>
+  </div>
+
+  <script src="js/libreria.js"></script>
+</body>
+</html>
