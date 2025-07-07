@@ -21,11 +21,11 @@ También se incluye una carpeta img/ donde se colocan los íconos o imágenes ne
 Capturas de Pantalla
 
 A continuación se presentan capturas del login funcionando
-    Vista general del Login:
-    ![image](https://github.com/user-attachments/assets/d18b83a1-a1bc-43ef-a324-f7c5352e01b5)
-    Validación de campos vacíos:
+    Vista general del Login:         
+    ![image](https://github.com/user -attachments/assets/d18b83a1-a1bc-43ef-a324-f7c5352e01b5)
+    Validación de campos vacíos:              
     ![image](https://github.com/user-attachments/assets/c20459e6-2735-4e6a-830e-f1045709e080)
-    Mostrar/Ocultar contraseña:
+    Mostrar/Ocultar contraseña:              
     ![image](https://github.com/user-attachments/assets/7c50e239-90bc-4d58-9a73-df7cd03dc34f)
      ![image](https://github.com/user-attachments/assets/ae73bd35-baaa-48da-b8ff-1ef6f3ffef4a)
     Acceso correcto o errores en consola:
