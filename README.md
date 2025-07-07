@@ -1,4 +1,4 @@
-Proyecto de Login – Vicente Zenón
+Proyecto de Login – Juarez Fernandez Eric Aaron
 Descripción
 
 Este proyecto consiste en el desarrollo de un formulario de inicio de sesión (Login)
